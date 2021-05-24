@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iTunesFinder</string>
+    <string name="input_layout">Insert your favorite artist or track</string>
+</resources>
